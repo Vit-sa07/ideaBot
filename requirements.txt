@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+pydub==0.25.1
+requests==2.31.0
+SpeechRecognition==3.8.1
+pyTelegramBotAPI==4.10.0
+
